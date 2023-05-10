@@ -1,7 +1,2 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+本项目是一款比较流行的管理类系统，采用前后端分离来开发。后台管理系统包括了前端展示和后台管理两部分。前端展示包括：登录、首页图表、用户页面、用户搜索、商品页面等。后台管理包括：用户管理、商品管理等。
+技术栈：vue-router、vuex、axios、二次封装axios、element-ui、mock、echarts.
